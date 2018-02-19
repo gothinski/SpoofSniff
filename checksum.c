@@ -1,3 +1,6 @@
+/*
+(C) 2017 gothinski
+*/
 #include <string.h>
 #include <netinet/ip.h>
 
